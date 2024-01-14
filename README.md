@@ -2,8 +2,8 @@
 
 [![MasterHead](bubble-sort-animation-swtestacademy-bg.gif)]()
 # Important Sorting Algorithms :-
-# 1. History Of C++ 
-# 2. Features of C++ 
+# 1. Linear Search
+# 2. Binary Search 
 # 3. OOP'S 
 # 4. Classes & Object
 # 5. Types of Variables 
